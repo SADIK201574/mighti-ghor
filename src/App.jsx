@@ -9,7 +9,7 @@ function App() {
     <Navbar/>
     <Slider/>
 
-    <h1>Our products</h1>
+    <h1>Our sweets</h1>
     <ProductCard/>
    </div>
   )
